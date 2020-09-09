@@ -16,8 +16,7 @@
    
 ### 실행 화면
  - 플레이어가 화살을 쏠 때 
- 
-  ![화살 쏠 때 ](https://user-images.githubusercontent.com/52234053/92622929-97c45f00-f300-11ea-901c-4fe336038db2.png)
+   ![화살 쏠 때 ](https://user-images.githubusercontent.com/52234053/92622929-97c45f00-f300-11ea-901c-4fe336038db2.png)
   
  - 플레이어가 화살을 연속으로 쏠 때 (연속으로 누르면 화살이 일정한 간격을 두고 날아가도록 설정) 
  
