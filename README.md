@@ -18,31 +18,27 @@
  - 플레이어가 화살을 쏠 때 
   
      ![화살 쏠 때 ](https://user-images.githubusercontent.com/52234053/92622929-97c45f00-f300-11ea-901c-4fe336038db2.png)
-  　　
-   　 　
-  
-  
+
+
+　
  - 플레이어가 화살을 연속으로 쏠 때 (연속으로 누르면 화살이 일정한 간격을 두고 날아가도록 설정) 
   
      ![연속으로 쏠 때](https://user-images.githubusercontent.com/52234053/92622937-998e2280-f300-11ea-8e93-69d1e3215c37.png)
-  　　　
-  
-  
-  
+ 
+ 
+ 　
  - 외계인이 화살에 맞았을 때 
  
      ![외계인이 화살에 맞았을 때](https://user-images.githubusercontent.com/52234053/92622938-9a26b900-f300-11ea-8bd0-e9a3867064ec.png)
-  　　
-  　
-   　
-  
+ 
+ 
+ 　
  - 플레이어와 외계인이 충돌했을 때 (외계인이 화살에 맞았을 경우와 차이를 두기 위해 충돌 효과가 두 개 나타나도록 설정) 
  
      ![플레이어와 외계인이 충돌했을 때](https://user-images.githubusercontent.com/52234053/92622939-9abf4f80-f300-11ea-90c3-642dbb3f0470.png)
-  　　
-   　
-  
-  
+
+
+　
  - 게임이 끝났을 때 (GAME OVER와 SCORE를 출력) 
  
      ![GAME OVER](https://user-images.githubusercontent.com/52234053/92622941-9abf4f80-f300-11ea-9c39-819ba5aa86cc.png)
